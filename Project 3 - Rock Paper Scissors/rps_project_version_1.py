@@ -1,6 +1,6 @@
 # install colorama using pip
 # install termcolor using pip
-# [INFORMATION] [python_code.py]--------
+# [INFORMATION] [rps_project_version_1.py]--------
 # Player 1 : Human player,
 # Player 2 : Random move,
 # Player 3 : Mimic opponent's previous move,
